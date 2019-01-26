@@ -1,0 +1,52 @@
+p {
+    color: gray;
+    font-size: 100px;
+}
+
+#h1 {
+    margin: auto; 
+    color: white;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+
+body {
+    background-image: url("Photos/black-background-wood-i-e29da4-4k-hd-desktop-wallpaper-for-4k-ultra-hd.jpg")
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+
+
+#container {
+    background-color: black;
+}
+
+#Main {
+    background-color: black;
+    margin: auto;
+    width: 1200px;
+    text-align: center;
+}
+
+#vsc {
+    text-align: center;
+}
+
+#p1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+#p2 {
+    font-size: 40px;
+    
+}
+
