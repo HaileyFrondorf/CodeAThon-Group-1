@@ -1,34 +1,524 @@
-#Container1 {
-    position: absolute;
-    height: 10%;
-    width: 70%;
-    top: 0%;
-    left: 22%;
-    font-size: 45px;
-    border: 4px solid white;
-}
 body {
     background-image: url(background.jpg)
 }
+
 * {
     color: white
 }
 
-.centered{
+.centered {
     text-align: center;
 }
-#Container2 {
+
+/*
+position: absolute;
+height:
+width:
+top:
+left:
+font-size:
+
+<><><><><><>
+
+position: absolute;
+height:
+width:
+top:
+left:
+border: 2px solid white;
+*/
+
+#q1 {
+    position: absolute;
+    height: 25%;
+    width: 90%;
+    top: 0%;
+    left: 5%;
+    font-size: 45px;
+    border: 4px solid white;
+}
+
+#q2 {
     position: absolute;
     height: 15%;
     width: 10%;
-    top: 25%;
+    top: 23%;
     left: 5%;
     font-size: 40px;
 }
-#Container3 {
+
+#q3 {
+    position: absolute;
+    height:15%;
+    width: 70%;
+    top: 36%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q4 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 53%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q5 {
+    position: absolute;
+    height: 150%;
+    width: 70%;
+    top: 60%;
+    left: 12%;
+    Font-size: 20px;
+}
+
+#i1 {
+    position: absolute;
+    height: 150px;
+    width: 400px;
+    top: 30%;
+    left: 0%;
+    border: 2px solid white
+}
+
+#i2 {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 30%;
+    left: 45%;
+    border: 2px solid white
+}
+
+#i3 {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 30%;
+    left: 65%;
+    border: 2px solid white
+}
+
+#i4 {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 30%;
+    left: 85%;
+    border: 2px solid white;
+}
+
+#q6 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 130%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q7 {
+    position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 138%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q8 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 152%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q9 { 
+    position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 161%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#i5 {
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    top: 179%;
+    left: 20%;
+    border: 2px solid white;
+}
+
+#i6 {
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    top: 179%;
+    left: 60%;
+    border: 2px solid white;
+}
+
+#q10 {
+    position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 230%;
+    left: 5%;
+    font-size: 40px;
+}
+
+#q11 {
+    position: absolute;
+    height: 15;
+    width: 70%;
+    top: 244%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q12 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 256%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q13 {
+    position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 265%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q14 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 278%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#i7 {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 300%;
+    left: 20%;
+    border: 2px solid white
+}
+
+#i8 {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 300%;
+    left: 40%;
+    border: 2px solid white
+}
+
+#i9 {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 300%;
+    left: 60%;
+    border: 2px solid white
+}
+
+#q16 {
+    position: absolute;
+    height: 0%;
+    width: 20%;
+    top: 290%;
+    left: 24%;
+    font-size: 22px;
+}
+
+#q17 {
+    position: absolute;
+    height: 0%;
+    width: 20%;
+    top: 290%;
+    left: 41%;
+    font-size: 22px;
+}
+
+#q18 {
+    position: absolute;
+    height: 0%;
+    width: 20%;
+    top: 290%;
+    left: 63%;
+    font-size: 22px;
+}
+
+#q19 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 285%;
+    left: 10%;
+    font-size: 15px;
+}
+
+#q20 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 339%;
+    left: 10%;
+    font-size: 25px;
+}
+#q21 {
     Position: absolute;
     height: 15%;
     width: 70%;
-    top: 40%;
+    top: 347%;
     left: 10%;
-    font-size: 20px
+    font-size: 20px;
+}
+
+#q22 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 363%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q23 {
+    position: absolute;
+    height: 150%;
+    width: 70%;
+    top: 370%;
+    left: 12%;
+    Font-size: 20px;
+}
+
+#i10{
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 400%;
+    left: 40%;
+    border: 2px solid white
+}
+
+#q25 {
+    position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 430%;
+    left: 5%;
+    font-size: 40px;
+}
+
+#q26 {
+    Position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 442%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q27 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 454%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q28 {
+    Position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 460%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q29 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 475%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q30 {
+    Position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 481%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#i11 {
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 505%;
+    left: 20%;
+    border: 2px solid white
+}
+
+#i12 {
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 505%;
+    left: 40%;
+    border: 2px solid white
+}
+
+#i13 {
+    position: absolute;
+    height: 175px;
+    width: 175px;
+    top: 505%;
+    left: 60%;
+    border: 2px solid white
+}
+
+#q32 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 538%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q33 {
+    position: absolute;
+    height: 150%;
+    width: 70%;
+    top: 548%;
+    left: 12%;
+    Font-size: 20px;
+}
+
+#q34 {
+    position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 595%;
+    left: 5%;
+    font-size: 40px;
+}
+
+#q35 {
+    Position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 607%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q36 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 617%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q37 {
+    Position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 623%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#q38 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 635%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q39 {
+    Position: absolute;
+    height: 15%;
+    width: 70%;
+    top: 641%;
+    left: 10%;
+    font-size: 20px;
+}
+
+#i14 {
+    position: absolute;
+    height: 175px;
+    width: 400px;
+    top: 685%;
+    left: 35%;
+    border: 2px solid white;
+}
+
+#q41 {
+    position: absolute;
+    height: 0%;
+    width: 70%;
+    top: 713%;
+    left: 10%;
+    font-size: 25px;
+}
+
+#q42 {
+    position: absolute;
+    height: 150%;
+    width: 70%;
+    top: 720%;
+    left: 12%;
+    Font-size: 20px;
+}
+
+#q43 {
+    position: absolute;
+    height: 175px;
+    width: 350px;
+    top: 755%;
+    left: 25%;
+}
+
+#bottom {
+    background-color: rgb(41, 41, 41);
+    position: absolute;
+    height: 100%;
+    width: 97.5%;
+    top: 815%;
+    left: 1%;
+    border: 2px solid white;
+    font-size: 40px;
+}
+
+#arrow {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 833%;
+    left: 45%;
+}
